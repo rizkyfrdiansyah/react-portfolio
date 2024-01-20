@@ -1,7 +1,12 @@
+import styles from "./App.module.css";
+import { Navbar } from "./components/Navbar/Navbar";
+
 function App() {
   return (
     <>
-      <h1>HELLOW</h1>
+      <div className={styles.App}>
+        <Navbar />
+      </div>
     </>
   );
 }
