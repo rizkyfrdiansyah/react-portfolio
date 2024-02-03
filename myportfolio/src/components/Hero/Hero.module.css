@@ -31,7 +31,7 @@
 
 .description {
   font-size: 30px;
-  font-family: va(--font-roboto);
+  font-family: var(--font-roboto);
   margin-bottom: 52px;
 }
 
@@ -43,7 +43,7 @@
   font-size: 30px;
   font-weight: 600;
   padding: 17px 26px;
-  box-shadow: 0 0 4x 0 rgba(0, 0, 0, 0.25);
+  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
 }
 
 .heroImg {
@@ -74,7 +74,7 @@
   min-width: 350px;
   min-width: 350px;
   top: -128px;
-  left: 10vw;
+  left: -10vw;
   border-radius: 764px;
   background: rgba(25, 55, 109, 0.7);
   filter: blur(100px);
