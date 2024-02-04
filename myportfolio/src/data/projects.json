@@ -1,26 +1,66 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "GYM MEMBERSHIP",
+    "imageSrc": "projects/altagym.png",
+    "description": "The project's goal is to help people stay healthy during the pandemic through Altagym's online and offline fitness classes and membership facilities.",
+    "skills": ["ReactJS", "Tailwind", "Postman", "Swagger", "AWS"],
+    "demo": "https://altagym-altagym.vercel.app/landingpage",
+    "source": "https://github.com/Group10CapstoneProject"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Movies-App",
+    "imageSrc": "projects/movie.png",
+    "description": "Web app for movie lists using TMDb API. Final project for SMKDEV Scholarship - Frontend Developer.",
+    "skills": ["ReactJS", "Axios", "ViteJS", "TMDB-API", "Sweetalert2"],
+    "demo": "https://cinefilm-frontend.netlify.app/",
+    "source": "https://github.com/rizkyfrdiansyah/final-task-fe"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
+    "title": "Depublic",
+    "imageSrc": "projects/depublic.png",
+    "description": "Ticket marketplace for diverse events. Buyers can easily find and purchase tickets online for convenience. The platform ensures accurate, current event information.",
+    "skills": ["ReactJS", "Axios", "Firebase", "ViteJS"],
+    "demo": "https://depublic-challenge.vercel.app/",
+    "source": "https://github.com/rizkyfrdiansyah/depublic-starter"
+  },
+  {
+    "title": "Tokopatu",
+    "imageSrc": "projects/tokopatu.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["HTML5", "CSS3", "JavaScript"],
+    "demo": "https://tokopatu.vercel.app/",
+    "source": "https://github.com/rizkyfrdiansyah/FE_SMKDEV_SCHOLARSHIP"
+  },
+  {
+    "title": "MeallApp",
+    "imageSrc": "projects/meal.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML5", "CSS3", "JavaScript", "Jquery"],
+    "demo": "https://appmeal.netlify.app/",
+    "source": "https://github.com/rizkyfrdiansyah/cmlabs-frontend-internship-test-"
+  },
+  {
+    "title": "Wedding Organizer",
+    "imageSrc": "projects/wedding.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML5", "CSS3", "JavaScript"],
+    "demo": "https://putra-mahkota.vercel.app/",
+    "source": "https://github.com/rizkyfrdiansyah/wedding-organizer"
+  },
+  {
+    "title": "Bookshelf Apps",
+    "imageSrc": "projects/bookshelf.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML5", "CSS3", "JavaScript", "DOM-Manipulation"],
+    "demo": "https://pengelolaanbook.netlify.app/",
+    "source": "https://github.com/rizkyfrdiansyah/Data-Management-Application"
+  },
+  {
+    "title": "Interior Website",
+    "imageSrc": "projects/interior.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML5", "CSS3", "JavaScript", "Bootstrap"],
+    "demo": "https://salvatore-interior.netlify.app/",
+    "source": "https://github.com/rizkyfrdiansyah/interior-web"
   }
 ]
