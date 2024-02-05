@@ -2,23 +2,23 @@
   {
     "title": "GYM MEMBERSHIP",
     "imageSrc": "projects/altagym.png",
-    "description": "The project's goal is to help people stay healthy during the pandemic through Altagym's online and offline fitness classes and membership facilities.",
-    "skills": ["ReactJS", "Tailwind", "Postman", "Swagger", "AWS"],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["ReactJS", "Tailwind", "Postman", "Swagger"],
     "demo": "https://altagym-altagym.vercel.app/landingpage",
     "source": "https://github.com/Group10CapstoneProject"
   },
   {
     "title": "Movies-App",
     "imageSrc": "projects/movie.png",
-    "description": "Web app for movie lists using TMDb API. Final project for SMKDEV Scholarship - Frontend Developer.",
-    "skills": ["ReactJS", "Axios", "ViteJS", "TMDB-API", "Sweetalert2"],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["ReactJS", "Axios", "ViteJS", "TMDB-API"],
     "demo": "https://cinefilm-frontend.netlify.app/",
     "source": "https://github.com/rizkyfrdiansyah/final-task-fe"
   },
   {
     "title": "Depublic",
     "imageSrc": "projects/depublic.png",
-    "description": "Ticket marketplace for diverse events. Buyers can easily find and purchase tickets online for convenience. The platform ensures accurate, current event information.",
+    "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["ReactJS", "Axios", "Firebase", "ViteJS"],
     "demo": "https://depublic-challenge.vercel.app/",
     "source": "https://github.com/rizkyfrdiansyah/depublic-starter"
@@ -51,7 +51,7 @@
     "title": "Bookshelf Apps",
     "imageSrc": "projects/bookshelf.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["HTML5", "CSS3", "JavaScript", "DOM-Manipulation"],
+    "skills": ["HTML5", "CSS3", "JavaScript"],
     "demo": "https://pengelolaanbook.netlify.app/",
     "source": "https://github.com/rizkyfrdiansyah/Data-Management-Application"
   },
@@ -59,7 +59,7 @@
     "title": "Interior Website",
     "imageSrc": "projects/interior.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["HTML5", "CSS3", "JavaScript", "Bootstrap"],
+    "skills": ["HTML5", "CSS3", "JavaScript"],
     "demo": "https://salvatore-interior.netlify.app/",
     "source": "https://github.com/rizkyfrdiansyah/interior-web"
   }

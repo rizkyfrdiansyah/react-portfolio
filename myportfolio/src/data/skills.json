@@ -24,6 +24,10 @@
     "imageSrc": "skills/tailwind.png"
   },
   {
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap.png"
+  },
+  {
     "title": "PHP",
     "imageSrc": "skills/php.png"
   },
